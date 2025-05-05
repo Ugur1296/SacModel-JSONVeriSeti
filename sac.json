@@ -1,0 +1,42 @@
+[
+  {
+      "sacIsim": "Buzz Kesim",
+      "sacUcret": "300TL",
+      "sacSure": "15 Dakika",
+      "sacZorluk": "Düşük",
+      "sacEnvanter": "Traş Makinesi(6-4-2 Numara)",
+      "gorsel": "https://github.com/Ugur1296/SacModel-JSONVeriSeti/blob/5f44a09ef13d81ff2e30a17acd974c0bba76f714/buzzkesim.png"
+    },
+    {
+        "sacIsim": "Crew Kesim",
+        "sacUcret": "400TL",
+        "sacSure": "20 Dakika",
+        "sacZorluk": "Normal Altı",
+        "sacEnvanter": "Traş Makinesi(2-3 Numara)",
+        "gorsel": "https://github.com/Ugur1296/SacModel-JSONVeriSeti/blob/5f44a09ef13d81ff2e30a17acd974c0bba76f714/crewkesim.png"
+    },
+    {
+        "sacIsim": "Fade Kesim",
+        "sacUcret": "400TL",
+        "sacSure": "20 Dakika",
+        "sacZorluk": "Normal Altı",
+        "sacEnvanter": "Traş Makinesi,Makas",
+        "gorsel": "https://github.com/Ugur1296/SacModel-JSONVeriSeti/blob/5f44a09ef13d81ff2e30a17acd974c0bba76f714/fadekesim.png"
+    },
+    {
+        "sacIsim": "Undercut Kesim",
+        "sacUcret": "500TL",
+        "sacSure": "30 Dakika",
+        "sacZorluk": "Normalin",
+        "sacEnvanter": "Traş Makinesi,Wax",
+        "gorsel": "https://github.com/Ugur1296/SacModel-JSONVeriSeti/blob/5f44a09ef13d81ff2e30a17acd974c0bba76f714/undercutkesim.png"
+    },
+    {
+        "sacIsim": "Yan Kesim",
+        "sacUcret": "500TL",
+        "sacSure": "35 Dakika",
+        "sacZorluk": "Normalin Üstü",
+        "sacEnvanter": "Traş Makinesi,Wax,Tarak",
+        "gorsel": "https://github.com/Ugur1296/SacModel-JSONVeriSeti/blob/5f44a09ef13d81ff2e30a17acd974c0bba76f714/yankesim.png"
+    }
+]
